@@ -1,0 +1,13 @@
+C:\Users\Isaia\source\repos\ftp\bin\Debug\netcoreapp3.1\FTP.exe
+C:\Users\Isaia\source\repos\ftp\bin\Debug\netcoreapp3.1\FTP.deps.json
+C:\Users\Isaia\source\repos\ftp\bin\Debug\netcoreapp3.1\FTP.runtimeconfig.json
+C:\Users\Isaia\source\repos\ftp\bin\Debug\netcoreapp3.1\FTP.runtimeconfig.dev.json
+C:\Users\Isaia\source\repos\ftp\bin\Debug\netcoreapp3.1\FTP.dll
+C:\Users\Isaia\source\repos\ftp\bin\Debug\netcoreapp3.1\FTP.pdb
+C:\Users\Isaia\source\repos\ftp\obj\Debug\netcoreapp3.1\FTP.AssemblyInfoInputs.cache
+C:\Users\Isaia\source\repos\ftp\obj\Debug\netcoreapp3.1\FTP.AssemblyInfo.cs
+C:\Users\Isaia\source\repos\ftp\obj\Debug\netcoreapp3.1\FTP.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\source\repos\ftp\obj\Debug\netcoreapp3.1\FTP.dll
+C:\Users\Isaia\source\repos\ftp\obj\Debug\netcoreapp3.1\FTP.pdb
+C:\Users\Isaia\source\repos\ftp\obj\Debug\netcoreapp3.1\FTP.genruntimeconfig.cache
+C:\Users\Isaia\source\repos\ftp\obj\Debug\netcoreapp3.1\FTP.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Isaia\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.csprojAssemblyReference.cache
+C:\Users\Isaia\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.AssemblyInfoInputs.cache
+C:\Users\Isaia\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.AssemblyInfo.cs
+C:\Users\Isaia\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Isaia\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.exe
+C:\Users\Isaia\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.deps.json
+C:\Users\Isaia\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.runtimeconfig.json
+C:\Users\Isaia\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.runtimeconfig.dev.json
+C:\Users\Isaia\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.dll
+C:\Users\Isaia\source\repos\FTPServer\bin\Debug\netcoreapp3.1\FTPServer.pdb
+C:\Users\Isaia\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.dll
+C:\Users\Isaia\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.pdb
+C:\Users\Isaia\source\repos\FTPServer\obj\Debug\netcoreapp3.1\FTPServer.genruntimeconfig.cache
